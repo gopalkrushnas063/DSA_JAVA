@@ -18,6 +18,6 @@ public class Main {
             reverseNum = reverseNum*10+reminder;
             num = num/10;
         }
-        System.out.println("Recerse Number is : "+reverseNum);
+        System.out.println("Reverse Number is : "+reverseNum);
     }
 }
